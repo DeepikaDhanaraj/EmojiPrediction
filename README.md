@@ -10,4 +10,5 @@ These clever systems leverage the power of artificial intelligence (AI) to under
 ## Screenshots
 
 ![Output1](https://github.com/DeepikaDhanaraj/EmojiPrediction/blob/main/Output/Screenshot%202024-04-05%20190944.png)
+
 ![Output2](https://github.com/DeepikaDhanaraj/EmojiPrediction/blob/main/Output/Screenshot%202024-04-05%20191015.png)
